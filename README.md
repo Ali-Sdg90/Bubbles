@@ -2,7 +2,7 @@
 
 An interactive visual animation project built with **HTML, CSS, and JavaScript** where bubbles appear on the screen and move dynamically.
 
-This project demonstrates how simple animations and visual effects can be created using vanilla web technologies without any external libraries.
+This project demonstrates how simple animations and visual effects can be created using web technologies without any external libraries.
 
 ---
 
@@ -28,7 +28,7 @@ To see the animation in action, simply open the project in your browser.
 
 * **HTML5** – Structure of the page
 * **CSS3** – Bubble styling, layout, and visual effects
-* **JavaScript (Vanilla JS)** –
+* **JavaScript**
 
   * Creating bubbles dynamically
   * Controlling movement and animation
